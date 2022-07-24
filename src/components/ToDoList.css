@@ -1,0 +1,19 @@
+
+fast-card {
+    width: 50%;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 1px 1px 7px 4px #888888;
+}
+
+fast-card.no-shadow {
+    box-shadow: 0 0;
+}
+
+fast-card.spaced fast-text-field{
+    margin-right: 5px;
+}
+
+fast-listbox {
+    width: 100%;
+}
